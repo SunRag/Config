@@ -1,6 +1,6 @@
 {
   "common": {
-    "device-id": "ALL",
+    "imei": "ALL",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
     "url-gps":"www.g.com",
@@ -12,7 +12,7 @@
     "fw-no-files":22
   },
     "91881881800": {
-    "device-id": "91881881800",
+    "imei": "91881881800",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
     "url-gps":"www.g.com",
@@ -24,7 +24,7 @@
     "fw-no-files":22
   },
   "91881881801": {
-    "device-id": "91881881801",
+    "imei": "91881881801",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
     "url-gps":"www.g.com",
