@@ -9,7 +9,7 @@
     "deepsleep-min":2,
     "txrx-interval-min":2,
     "sw-version":100
-  }
+  },
     "config-91881881800": {
     "device-ID": "ALL",
     "url-config": "www.g.com",
@@ -20,7 +20,7 @@
     "deepsleep-min":2,
     "txrx-interval-min":2,
     "sw-version":100
-  }
+  },
   "config-91881881801": {
     "device-ID": "ALL",
     "url-config": "www.g.com",
