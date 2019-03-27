@@ -1,38 +1,38 @@
 {
-  "config-common": {
+  "common": {
     "device-id": "ALL",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
-    "url-upload-gps":"www.g.com",
-    "url-upload-wifi": "www.g.com",
+    "url-gps":"www.g.com",
+    "url-wifi": "www.g.com",
     "message": "have a good day",
     "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
-    "fw-no-of-files":22
+    "fw-no-files":22
   },
-    "config-91881881800": {
+    "91881881800": {
     "device-id": "91881881800",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
-    "url-upload-gps":"www.g.com",
-    "url-upload-wifi": "www.g.com",
+    "url-gps":"www.g.com",
+    "url-wifi": "www.g.com",
     "message": "have a good day",
     "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
-    "fw-no-of-files":22
+    "fw-no-files":22
   },
-  "config-91881881801": {
+  "91881881801": {
     "device-id": "91881881801",
     "url-config": "www.g.com",
     "url-fota": "www.g.com",
-    "url-upload-gps":"www.g.com",
-    "url-upload-wifi": "www.g.com",
+    "url-gps":"www.g.com",
+    "url-wifi": "www.g.com",
     "message": "have a good day",
     "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
-    "fw-no-of-files":22
+    "fw-no-files":22
   }
 }
