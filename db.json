@@ -4,6 +4,7 @@
     "api-url": "www.g.com",
     "api-key": "have a good day",
     "deepsleep-min":2,
-    "txrx-interval-min":2
+    "txrx-interval-min":2,
+    "sw-version":100
   }
 }
