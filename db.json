@@ -1,13 +1,13 @@
 {
   "common": {
-    "imei": "EVERYONE",
+    "imei": "ALL DEVICES",
     "url-config": "www.config.com",
-    "url-fota": "www.fota.com",
-    "url-gps":"www.gps.com",
-    "url-wifi": "www.wifi.com",
-    "message": "have a super day",
-    "txrx-interval":3,
-    "fw-version":101,
+    "url-fota": "www.myfotaurl.com",
+    "url-gps":"www.mygpsurl.com",
+    "url-wifi": "www.mywifiurl.com",
+    "message": "have a fine day",
+    "txrx-interval":2,
+    "fw-version":121,
     "fw-file-size":645510,
     "fw-no-files":22
   },
