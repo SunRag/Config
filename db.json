@@ -6,7 +6,7 @@
     "url-upload-GPS":"www.g.com",
     "url-upload-WiFi": "www.g.com",
     "message": "have a good day",
-    "txrx-interval-min":2,
+    "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
     "fw-No-of-Files":22
@@ -18,7 +18,7 @@
     "url-upload-GPS":"www.g.com",
     "url-upload-WiFi": "www.g.com",
     "message": "have a good day",
-    "txrx-interval-min":2,
+    "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
     "fw-No-of-Files":22
@@ -30,7 +30,7 @@
     "url-upload-GPS":"www.g.com",
     "url-upload-WiFi": "www.g.com",
     "message": "have a good day",
-    "txrx-interval-min":2,
+    "txrx-interval":2,
     "fw-version":100,
     "fw-file-size":645510,
     "fw-No-of-Files":22
