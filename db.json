@@ -6,7 +6,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "have a fine day",
-    "txrx-interval":2,
+    "txrx-interval":5,
     "fw-version":121,
     "fw-file-size":645510,
     "fw-no-files":22
