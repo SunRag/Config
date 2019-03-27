@@ -1,8 +1,33 @@
 {
-  "config": {
-    "device-ID": "123ABC_789",
-    "api-url": "www.g.com",
-    "api-key": "have a good day",
+  "config-common": {
+    "device-ID": "ALL",
+    "url-config": "www.g.com",
+    "url-fota": "www.g.com",
+    "url-upload1": "www.g.com",
+    "url-upload2": "www.g.com",
+    "message": "have a good day",
+    "deepsleep-min":2,
+    "txrx-interval-min":2,
+    "sw-version":100
+  }
+    "config-91881881800": {
+    "device-ID": "ALL",
+    "url-config": "www.g.com",
+    "url-fota": "www.g.com",
+    "url-upload1": "www.g.com",
+    "url-upload2": "www.g.com",
+    "message": "have a good day",
+    "deepsleep-min":2,
+    "txrx-interval-min":2,
+    "sw-version":100
+  }
+  "config-91881881801": {
+    "device-ID": "ALL",
+    "url-config": "www.g.com",
+    "url-fota": "www.g.com",
+    "url-upload1": "www.g.com",
+    "url-upload2": "www.g.com",
+    "message": "have a good day",
     "deepsleep-min":2,
     "txrx-interval-min":2,
     "sw-version":100
