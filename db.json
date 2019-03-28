@@ -7,9 +7,9 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a nice day! Return car to Bldg 12A.",
     "txrx-interval":2,
-    "fw-version":100,
-    "fw-file-size":645510,
-    "fw-no-files":22
+    "fw-version":101,
+    "fw-file-size":778320,
+    "fw-no-files":26
   },
     "91881881800": {
     "imei": "91881881800",
