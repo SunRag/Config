@@ -5,10 +5,10 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Have a nice day! Drive safely!",
+    "message": "Have a nice day! Drive Safely!",
     "txrx-interval":15,
-    "fw-version":109,
-    "fw-file-size":781360,
+    "fw-version":110,
+    "fw-file-size":779520,
     "fw-no-files":26
   },
     "91881881800": {
