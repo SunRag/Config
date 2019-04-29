@@ -30,7 +30,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a good day and be safe",
-    "txrx-interval":11,
+    "txrx-interval":19,
     "fw-version":115,
     "fw-file-size":779504,
     "fw-no-files":26
