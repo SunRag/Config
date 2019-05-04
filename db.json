@@ -43,8 +43,8 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a good day and be safe",
     "txrx-interval":5,
-    "fw-version":115,
-    "fw-file-size":779504,
+    "fw-version":116,
+    "fw-file-size":778848,
     "fw-no-files":26
   }
 }
