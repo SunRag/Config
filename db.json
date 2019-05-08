@@ -53,8 +53,8 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Device 29009 is now active",
-    "txrx-interval":9,
+    "message": "Device 29009 is  now active",
+    "txrx-interval":15,
     "fw-version":117,
     "fw-file-size":778848,
     "fw-no-files":26
