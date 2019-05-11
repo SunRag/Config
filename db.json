@@ -42,7 +42,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Powered HF Test  without battery",
-    "txrx-interval":2,
+    "txrx-interval":1,
     "fw-version":119,
     "fw-file-size":778848,
     "fw-no-files":26
