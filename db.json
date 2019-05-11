@@ -41,9 +41,9 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Have a good day and be safe",
-    "txrx-interval":65,
-    "fw-version":117,
+    "message": "Powered HF Test  without battery",
+    "txrx-interval":2,
+    "fw-version":119,
     "fw-file-size":778848,
     "fw-no-files":26
   },
