@@ -17,10 +17,10 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Running V118",
-    "txrx-interval":57,
-    "fw-version":118,
-    "fw-file-size":778848,
+    "message": "Updated to        Ver 120",
+    "txrx-interval":15,
+    "fw-version":120,
+    "fw-file-size":782224,
     "fw-no-files":26
   },
   "31484": {
