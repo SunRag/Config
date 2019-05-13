@@ -7,7 +7,7 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a nice day and drive safely.",
     "txrx-interval":20,
-    "fw-version":120,
+    "fw-version":121,
     "fw-file-size":782224,
     "fw-no-files":26
   },
