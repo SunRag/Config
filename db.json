@@ -41,7 +41,7 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "X Hi-Freq Test  (no battery)",
+    "message": "X Hi-Freq Test     (no battery)",
     "txrx-interval":1,
     "fw-version":122,
     "fw-file-size":782544,
