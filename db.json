@@ -30,7 +30,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Running V120",
-    "txrx-interval":2,
+    "txrx-interval":15,
     "fw-version":120,
     "fw-file-size":779504,
     "fw-no-files":26
