@@ -6,9 +6,9 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a nice day and drive safely.",
-    "txrx-interval":59,
-    "fw-version":117,
-    "fw-file-size":778848,
+    "txrx-interval":20,
+    "fw-version":120,
+    "fw-file-size":782224,
     "fw-no-files":26
   },
     "32490": {
