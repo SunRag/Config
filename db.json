@@ -35,6 +35,18 @@
     "fw-file-size":782224,
     "fw-no-files":26
   },
+    "30981": {
+    "imei": "30981",
+    "url-config": "www.config.com",
+    "url-fota": "www.myfotaurl.com",
+    "url-gps":"www.mygpsurl.com",
+    "url-wifi": "www.mywifiurl.com",
+    "message": "Running V120",
+    "txrx-interval":6,
+    "fw-version":120,
+    "fw-file-size":782224,
+    "fw-no-files":26
+  },
     "31872": {
     "imei": "31872",
     "url-config": "www.config.com",
