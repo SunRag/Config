@@ -32,7 +32,7 @@
     "message": "Running V120",
     "txrx-interval":3,
     "fw-version":120,
-    "fw-file-size":779504,
+    "fw-file-size":782224,
     "fw-no-files":26
   },
     "31872": {
@@ -43,8 +43,8 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Powered HF Test  without battery",
     "txrx-interval":1,
-    "fw-version":119,
-    "fw-file-size":778848,
+    "fw-version":120,
+    "fw-file-size":782224,
     "fw-no-files":26
   },
     "29009": {
