@@ -54,9 +54,9 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Device 29009 is  now active",
-    "txrx-interval":15,
-    "fw-version":117,
-    "fw-file-size":778848,
+    "txrx-interval":6,
+    "fw-version":120,
+    "fw-file-size":782224,
     "fw-no-files":26
   }
 }
