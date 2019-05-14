@@ -55,7 +55,7 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Device 29009 is  now active",
     "txrx-interval":6,
-    "fw-version":123,
+    "fw-version":122,
     "fw-file-size":782544,
     "fw-no-files":26
   }
