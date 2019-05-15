@@ -6,7 +6,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a nice day and drive safely.",
-    "txrx-interval":20,
+    "txrx-interval":43,
     "fw-version":121,
     "fw-file-size":782224,
     "fw-no-files":26
@@ -18,7 +18,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Please keep        this device  in a   car",
-    "txrx-interval":60,
+    "txrx-interval":17,
     "fw-version":120,
     "fw-file-size":782224,
     "fw-no-files":26
@@ -30,7 +30,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Running V120",
-    "txrx-interval":6,
+    "txrx-interval":127,
     "fw-version":120,
     "fw-file-size":782224,
     "fw-no-files":26
@@ -54,7 +54,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Device 29009 is  now active",
-    "txrx-interval":6,
+    "txrx-interval":103,
     "fw-version":122,
     "fw-file-size":782544,
     "fw-no-files":26
