@@ -6,7 +6,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Have a nice day and drive safely.",
-    "txrx-interval":77,
+    "txrx-interval":59,
     "fw-version":121,
     "fw-file-size":782224,
     "fw-no-files":26
@@ -30,7 +30,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Running V120",
-    "txrx-interval":57,
+    "txrx-interval":51,
     "fw-version":120,
     "fw-file-size":782224,
     "fw-no-files":26
@@ -42,7 +42,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Xmode: variable interval mode",
-    "txrx-interval":10,
+    "txrx-interval":3,
     "fw-version":122,
     "fw-file-size":782544,
     "fw-no-files":26
