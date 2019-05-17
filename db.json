@@ -41,7 +41,7 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Xmode: variable interval mode",
+    "message": "Normal interval mode",
     "txrx-interval":1,
     "fw-version":124,
     "fw-file-size":782544,
