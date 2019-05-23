@@ -18,7 +18,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Xmode: variable interval mode",
-    "txrx-interval":29,
+    "txrx-interval":5,
     "fw-version":120,
     "fw-file-size":782224,
     "fw-no-files":26
