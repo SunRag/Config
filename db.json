@@ -19,8 +19,8 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Xmode: variable interval mode",
     "txrx-interval":29,
-    "fw-version":124,
-    "fw-file-size":782544,
+    "fw-version":120,
+    "fw-file-size":782224,
     "fw-no-files":26
   },
     "31484": {
