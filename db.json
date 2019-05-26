@@ -53,8 +53,8 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Device 29009 is  now active",
-    "txrx-interval":49,
+    "message": "Device 29009 is  ADXL345 Controlled",
+    "txrx-interval":600,
     "fw-version":130,
     "fw-file-size":782544,
     "fw-no-files":26
