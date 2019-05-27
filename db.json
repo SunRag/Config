@@ -55,7 +55,7 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "Device 29009 is  ADXL345 Controlled",
     "txrx-interval":10,
-    "fw-version":124,
+    "fw-version":130,
     "fw-file-size":782544,
     "fw-no-files":26
   }
