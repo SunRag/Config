@@ -53,7 +53,7 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "This is motion activated",
+    "message": "Device is motion  activated!",
     "txrx-interval":60,
     "fw-version":130,
     "fw-file-size":782544,
