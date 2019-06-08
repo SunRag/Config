@@ -54,7 +54,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "XDevice is motion  activated!",
-    "txrx-interval":29,
+    "txrx-interval":359,
     "fw-version":130,
     "fw-file-size":782544,
     "fw-no-files":26
