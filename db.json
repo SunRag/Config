@@ -55,8 +55,8 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "XDevice set to 999m now",
     "txrx-interval":999,
-    "fw-version":130,
-    "fw-file-size":782544,
-    "fw-no-files":26
+    "fw-version":131,
+    "fw-file-size":804400,
+    "fw-no-files":27
   }
 }
