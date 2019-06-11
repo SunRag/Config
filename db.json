@@ -42,7 +42,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Normal interval mode",
-    "txrx-interval":71,
+    "txrx-interval":719,
     "fw-version":131,
     "fw-file-size":804400,
     "fw-no-files":27
