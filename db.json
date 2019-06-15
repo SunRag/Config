@@ -17,8 +17,8 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Xmode: Weekday Mode",
-    "txrx-interval":59,
+    "message": "Xmode: Weekend Mode",
+    "txrx-interval":239,
     "fw-version":124,
     "fw-file-size":783184,
     "fw-no-files":26
