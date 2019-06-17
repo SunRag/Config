@@ -17,8 +17,8 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Xmode: Weekend Mode",
-    "txrx-interval":239,
+    "message": "Xmode: Weekday Mode",
+    "txrx-interval":59,
     "fw-version":124,
     "fw-file-size":783184,
     "fw-no-files":26
@@ -29,8 +29,8 @@
     "url-fota": "www.myfotaurl.com",
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
-    "message": "Xmode: Happy Memorial Day Weekend",
-    "txrx-interval":178,
+    "message": "Xmode: Happy Day",
+    "txrx-interval":358,
     "fw-version":120,
     "fw-file-size":782224,
     "fw-no-files":26
