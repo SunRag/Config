@@ -54,7 +54,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "XMode & ADXL345 activated",
-    "txrx-interval":600,
+    "txrx-interval":10,
     "fw-version":131,
     "fw-file-size":804400,
     "fw-no-files":27
