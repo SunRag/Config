@@ -55,7 +55,7 @@
     "url-wifi": "www.mywifiurl.com",
     "message": "XMode & ADXL345 activated",
     "txrx-interval":74,
-    "fw-version":131,
+    "fw-version":132,
     "fw-file-size":804400,
     "fw-no-files":27
   }
