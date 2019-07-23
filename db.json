@@ -18,7 +18,7 @@
     "url-gps":"www.mygpsurl.com",
     "url-wifi": "www.mywifiurl.com",
     "message": "Xmode: Normal Hours",
-    "txrx-interval":599,
+    "txrx-interval":539,
     "fw-version":124,
     "fw-file-size":783184,
     "fw-no-files":26
